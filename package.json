@@ -1,6 +1,6 @@
 {
    "name" : "tipoff-app",
-   "version" : "1.0",
+   "version" : "1.0.0",
    "author" : "Gustavo Martim <gustavo@gm.eti.b>",
    "scripts": {
    },
