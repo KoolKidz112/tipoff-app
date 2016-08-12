@@ -2,6 +2,7 @@
    "name" : "tipoff-app",
    "version" : "1.0.0",
    "author" : "Gustavo Martim <gustavo@gm.eti.b>",
+   "license": "MIT",
    "scripts": {
    },
    "dependencies" : {
